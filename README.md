@@ -11,7 +11,7 @@ tables: :8080, :80, :9000, :7557, :8000, :8443
 REQUIREMENTS:
 * _cellar 
 * _net coffee machine
-* _no_beer policy (except on jazz evening)
+* _beer_ policy (including on jazz evening)
 
 CONFIG:
 * Open: 11:00am - 01:00am

@@ -17,6 +17,7 @@ CONFIG:
 * Open: 11:00am - 01:00am
 * 
 
+```
 while (place in space) {
 	$person = sit.down();
 	try {
@@ -27,6 +28,7 @@ while (place in space) {
 		$person.pay();
 	}
 }
+```
 
 API:
 
